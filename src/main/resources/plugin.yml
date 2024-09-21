@@ -1,0 +1,17 @@
+name: ParadoxUtils
+version: '1.0-ALPHA'
+main: me.luluhcifer.paradoxUtils.ParadoxUtils
+api-version: '1.21'
+commands:
+  espadaluz:
+    description: Teste
+    usage: /<command>
+  cetrofogo:
+    description: Teste
+    usage: /<command>
+  cetrowither:
+    description: Teste
+    usage: /<command>
+  cetrofim:
+    description: Teste
+    usage: /<command>
