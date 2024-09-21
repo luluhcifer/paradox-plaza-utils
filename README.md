@@ -1,1 +1,1 @@
-Coisas pro servidor paradox plaza
+Coisas pro servidor Paradox Plaza
